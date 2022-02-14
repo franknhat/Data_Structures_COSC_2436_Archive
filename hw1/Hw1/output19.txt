@@ -1,0 +1,8 @@
+{genre:murder.mystery,title:murder.on.the.orient.express,author:agatha.christie,year:1934}
+{genre:murder.mystery,title:the.murder.of.roger.ackroyd,author:agatha.christie,year:1926}
+{genre:murder.mystery,title:the.mysterious.affair.at.styles,author:agatha.christie,year:1920}
+{genre:murder.mystery,title:the.abc.murders,author:agatha.christie,year:1936}
+{genre:murder.mystery,title:death.on.the.nile,author:agatha.christie,year:1937}
+{genre:murder.mystery,title:the.murder.at.the.vicarage,author:agatha.christie,year:1930}
+{genre:murder.mystery,title:the.secret.adversary,author:agatha.christie,year:1922}
+{genre:murder.mystery,title:endless.night,author:agatha.christie,year:1967}

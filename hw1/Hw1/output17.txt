@@ -1,0 +1,17 @@
+{genre:murder.mystery,title:the.abc.murders,author:agatha.christie,year:1936}
+{genre:murder.mystery,title:death.on.the.nile,author:agatha.christie,year:1937}
+{genre:murder.mystery,title:the.murder.at.the.vicarage,author:agatha.christie,year:1930}
+{genre:murder.mystery,title:the.secret.adversary,author:agatha.christie,year:1922}
+{genre:murder.mystery,title:endless.night,author:agatha.christie,year:1967}
+{genre:nonfiction,title:outliers,author:malcolm.gladwell,year:2008}
+{genre:nonfiction,title:the.tipping.point.how.little.things.can.make.a.big.difference,author:malcolm.gladwell,year:2000}
+{genre:nonfiction,title:blink.the.power.of.thinking.without.thinking,author:malcolm.gladwell,year:2005}
+{genre:nonfiction,title:talking.to.strangers,author:malcolm.gladwell,year:2019}
+{genre:nonfiction,title:what.the.dog.saw.and.other.adventures,author:,year:2009}
+{genre:fiction,title:charlottes.web,author:e.b.white,year:1952}
+{genre:fiction,title:the.trumpet.of.the.swan,author:e.b.white,year:1970}
+{genre:fiction,title:the.cat.in.the.hat,author:dr.seuss,year:1957}
+{genre:fiction,title:green.eggs.and.ham,author:dr.seuss,year:1960}
+{genre:murder.mystery,title:the.girl.with.the.dragon.tattoo,author:stieg.larsson,year:2005}
+{genre:murder.mystery,title:in.the.woods,author:tana.french,year:2007}
+{genre:murder.mystery,title:the.sweetness.at.the.bottom.of.the.pie,author:alan.bradley,year:2009}

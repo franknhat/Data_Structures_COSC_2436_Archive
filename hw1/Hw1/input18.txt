@@ -1,0 +1,7 @@
+{genre:fiction,title:charlottes.web,author:e.b.white,year:1952}
+{genre:fiction,title:the.trumpet.of.the.swan,author:e.b.white,year:1970}
+{genre:fiction,title:the.cat.in.the.hat,author:dr.seuss,year:1957}
+{genre:fiction,title:green.eggs.and.ham,author:dr.seuss,year:1960}
+{genre:murder.mystery,title:the.girl.with.the.dragon.tattoo,author:stieg.larsson,year:2005}
+{genre:murder.mystery,title:in.the.woods,author:tana.french,year:2007}
+{genre:murder.mystery,title:the.sweetness.at.the.bottom.of.the.pie,author:alan.bradley,year:2009}

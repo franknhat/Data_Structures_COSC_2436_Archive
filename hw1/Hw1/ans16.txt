@@ -1,0 +1,1 @@
+{genre:murder.mystery,title:the.mysterious.affair.at.styles,author:agatha.christie,year:1920}

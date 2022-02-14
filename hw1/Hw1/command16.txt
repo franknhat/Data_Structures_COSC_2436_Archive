@@ -1,0 +1,11 @@
+genre:murder.mystery
+author:agatha.christie
+year:1930
+year:1967
+year:2007
+year:1970
+year:1920
+title:the.mysterious.affair.at.styles
+author:dr.seuss
+genre:fiction
+title:the.trumpet.of.the.swan
