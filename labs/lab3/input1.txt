@@ -1,0 +1,2 @@
+math,compsci A,compsci B
+art,novel,compsci C

@@ -1,0 +1,4 @@
+Pika   chu,30
+     Ditto,20
+Charmander,17
+  Squirtle,15

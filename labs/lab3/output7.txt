@@ -1,0 +1,2 @@
+50
+compsci 1,music

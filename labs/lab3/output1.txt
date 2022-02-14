@@ -1,0 +1,2 @@
+150
+compsci A,compsci B,compsci C,math,art,novel

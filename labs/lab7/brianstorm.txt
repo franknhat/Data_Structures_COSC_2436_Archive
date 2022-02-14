@@ -1,0 +1,4 @@
+store map in like 2d array
+storing the distance thing the distance thing in an array. -1 instead of infinity if not visited
+bool arr for what nodes visited and which edges can take
+*=-1 edge if used so we can easily go thro and be like oh used that edge and look for next min (&& >0)

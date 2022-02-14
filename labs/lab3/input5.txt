@@ -1,0 +1,2 @@
+novel,magazine,science
+math,physic,english,compsci 1,compsci 2,compsci 3,compsci 4

@@ -1,0 +1,2 @@
+nature,science,mathematic,technology,engineering,compsci 1,history 1,history 2,reading,english,german,france,spanish
+compsci A,compsci 2,chemical,cell biology,marvel comic,mythology,novel,bedtime story,politic 1,politic 2,compsci 3,physic,compsci 2437,geology,batman comic,intro to piano

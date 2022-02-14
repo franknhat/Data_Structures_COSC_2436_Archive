@@ -1,0 +1,4 @@
+Pikachu,30
+Ditto,20
+Charmander
+Squirtle,15

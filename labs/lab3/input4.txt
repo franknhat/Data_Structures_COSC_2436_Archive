@@ -1,0 +1,2 @@
+compsci B,compsci A,english B,art 3,Harry Potter,music theory
+art 1,compsci D,compsci C,art 2

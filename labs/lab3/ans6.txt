@@ -1,0 +1,2 @@
+240
+compsci 1,compsci A,compsci 2,compsci B,compsci 3,compsci C,compsci 4,compsci D,compsci 5,compsci E,compsci 6,compsci F

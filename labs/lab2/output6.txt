@@ -1,0 +1,3 @@
+Pikachu,30
+Ditto,20
+Squirtle,15
