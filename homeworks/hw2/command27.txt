@@ -1,0 +1,4 @@
+Sort (alphabetically)
+Sort (length)
+Add (0) [this sentence should go first]
+Add (0) [but this sentence is gonna be before it]

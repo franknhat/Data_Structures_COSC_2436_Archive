@@ -1,0 +1,4 @@
+Remove [r]
+Sort (length)
+Add (14) [wont be added]
+Remove [a]

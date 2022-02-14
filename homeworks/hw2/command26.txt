@@ -1,0 +1,4 @@
+Remove [nothing]
+Sort (length)
+Add (1) [this won't get added]
+Add (0) [this will get added]

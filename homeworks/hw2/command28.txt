@@ -1,0 +1,4 @@
+Remove [first]
+Add (0) [first]
+Remove [first]
+Sort (length)
